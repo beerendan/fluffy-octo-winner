@@ -1,3 +1,3 @@
 # fluffy-octo-winner
 Starter code for challenge 01
-yes
+no
